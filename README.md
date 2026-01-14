@@ -1,0 +1,1 @@
+# Solu-o-para-organiza-es-de-dados-de-minist-rio
