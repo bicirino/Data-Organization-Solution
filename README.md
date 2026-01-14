@@ -13,3 +13,6 @@
 2. Deve-se, antes de iniciar as operações, verificar a tabela .csv dos membros; 
 3. Implementar uma solução que utiliza o match do EMAIL, NOME, TELEFONE das duas tabelas; 
 4. Gerar a tabela .csv associativa das duas tabelas supracitadas. 
+
+## Tecnologias: 
+- Python ( pandas | unidecode);
