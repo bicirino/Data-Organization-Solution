@@ -6,7 +6,7 @@ import os
 # ================= CONFIGURAÇÃO =================
 FILE_KIDS = 'Relatório de Familias Com Seus Integrantes .csv'
 FILE_MEMBERS = 'membro_rows.csv' 
-FILE_OUTPUT = 'resultado_ordenado_final.csv'
+FILE_OUTPUT = 'resultado_final.csv'
 
 # Colunas do Banco
 DB_COL_ID = 'id_membro'
